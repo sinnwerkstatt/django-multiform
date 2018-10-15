@@ -8,7 +8,7 @@ import operator
 
 from django.core.exceptions import ImproperlyConfigured
 from django.forms.forms import BaseForm
-from django.forms.util import ErrorList
+from django.forms.utils import ErrorList
 from django.forms.widgets import Media
 from django.utils.safestring import mark_safe
 
